@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess the Word Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Guess the Word Game</h1>
+            <p id="message">Try to guess the hidden word!</p>
+        </header>
+        <main>
+            <p id="hint">Hint: <span id="hintText"></span></p>
+            <p id="wordDisplay"></p>
+            <input type="text" id="letterInput" maxlength="1" placeholder="Enter a letter">
+            <button id="guessLetter">Guess</button>
+            <button id="restartGame" class="hidden">Restart Game</button>
+            <p id="attempts">Attempts Left: <span id="attemptsLeft"></span></p>
+        </main>
+        <footer>
+            <p>Created with ❤️ by [Your Name]</p>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
