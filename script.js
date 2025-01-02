@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { word: 'Carrot', hint: 'Vegetable best describes you' },
         { word: 'Fatimah', hint: 'If you had to change your name what would you pick?' },
         { word: 'Smart', hint: ' Would you rather be smart,wealthy or good looking' },
-        { word: 'My sports teacher', hint: ' If you die and come back as a ghost who would you haunt' },
+        // { word: 'My sports teacher', hint: ' If you die and come back as a ghost who would you haunt' },
         { word: 'Smart', hint: ' Would you rather be smart,wealthy or good looking' },
     
     ];
