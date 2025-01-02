@@ -1,9 +1,11 @@
 document.addEventListener('DOMContentLoaded', () => {
     const words = [
-        { word: 'JAVASCRIPT', hint: 'A popular programming language' },
-        { word: 'HTML', hint: 'Markup language for creating web pages' },
-        { word: 'CSS', hint: 'Stylesheet language used for describing the look of a document' },
-        { word: 'JJC', hint: ' What is the song you love most which was saung by SM' },
+        { word: 'Dancing', hint: 'What useless skills are you really good at' },
+        { word: 'Carrot', hint: 'Vegetable best describes you' },
+        { word: 'Fatimah', hint: 'If you had to change your name what would you pick?' },
+        { word: 'Smart', hint: ' Would you rather be smart,wealthy or good looking' },
+        { word: 'My sports teacher', hint: ' If you die and come back as a ghost who would you haunt' },
+        { word: 'Smart', hint: ' Would you rather be smart,wealthy or good looking' },
     
     ];
     
